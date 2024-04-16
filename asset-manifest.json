@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.285f9af4.css",
-    "main.js": "/static/js/main.2c3f56cc.js",
-    "static/css/938.6534f5c8.chunk.css": "/static/css/938.6534f5c8.chunk.css",
-    "static/js/938.59b9dde7.chunk.js": "/static/js/938.59b9dde7.chunk.js",
-    "static/media/P1_Groseries.jpg": "/static/media/P1_Groseries.639bb209443559d1baeb.jpg",
-    "static/media/P2_BeautySalon.jpg": "/static/media/P2_BeautySalon.d7f4850d88d1b39e15b2.jpg",
-    "static/media/P3_FastFood.jpg": "/static/media/P3_FastFood.98b7a20bcf244d2dc324.jpg",
-    "static/media/EX1_come_on_fhqwgads.jpg": "/static/media/EX1_come_on_fhqwgads.fbb56f38817f7188037c.jpg",
-    "static/media/EX2_Blue_Escher_Waterfall.jpg": "/static/media/EX2_Blue_Escher_Waterfall.6a376df828f2d6a36bdd.jpg",
-    "static/media/backdrop.png": "/static/media/backdrop.d932eef4f0dd4a071c3d.png",
-    "static/media/olga_head.png": "/static/media/olga_head.5a3c73d3787138128e5e.png",
-    "static/media/CV Olga Perron.pdf": "/static/media/CV Olga Perron.018ce0ebd78993522a9e.pdf",
-    "static/media/bluehair.png": "/static/media/bluehair.2f25ea0f13611fec06a2.png",
-    "index.html": "/index.html",
-    "main.285f9af4.css.map": "/static/css/main.285f9af4.css.map",
-    "main.2c3f56cc.js.map": "/static/js/main.2c3f56cc.js.map",
-    "938.6534f5c8.chunk.css.map": "/static/css/938.6534f5c8.chunk.css.map",
-    "938.59b9dde7.chunk.js.map": "/static/js/938.59b9dde7.chunk.js.map"
+    "main.css": "/olgart/static/css/main.ede06763.css",
+    "main.js": "/olgart/static/js/main.31678123.js",
+    "static/css/938.6534f5c8.chunk.css": "/olgart/static/css/938.6534f5c8.chunk.css",
+    "static/js/938.59b9dde7.chunk.js": "/olgart/static/js/938.59b9dde7.chunk.js",
+    "static/media/P1_Groseries.jpg": "/olgart/static/media/P1_Groseries.639bb209443559d1baeb.jpg",
+    "static/media/P2_BeautySalon.jpg": "/olgart/static/media/P2_BeautySalon.d7f4850d88d1b39e15b2.jpg",
+    "static/media/P3_FastFood.jpg": "/olgart/static/media/P3_FastFood.98b7a20bcf244d2dc324.jpg",
+    "static/media/EX1_come_on_fhqwgads.jpg": "/olgart/static/media/EX1_come_on_fhqwgads.fbb56f38817f7188037c.jpg",
+    "static/media/EX2_Blue_Escher_Waterfall.jpg": "/olgart/static/media/EX2_Blue_Escher_Waterfall.6a376df828f2d6a36bdd.jpg",
+    "static/media/backdrop.png": "/olgart/static/media/backdrop.d932eef4f0dd4a071c3d.png",
+    "static/media/olga_head.png": "/olgart/static/media/olga_head.5a3c73d3787138128e5e.png",
+    "static/media/CV Olga Perron.pdf": "/olgart/static/media/CV Olga Perron.018ce0ebd78993522a9e.pdf",
+    "static/media/bluehair.png": "/olgart/static/media/bluehair.2f25ea0f13611fec06a2.png",
+    "index.html": "/olgart/index.html",
+    "main.ede06763.css.map": "/olgart/static/css/main.ede06763.css.map",
+    "main.31678123.js.map": "/olgart/static/js/main.31678123.js.map",
+    "938.6534f5c8.chunk.css.map": "/olgart/static/css/938.6534f5c8.chunk.css.map",
+    "938.59b9dde7.chunk.js.map": "/olgart/static/js/938.59b9dde7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.285f9af4.css",
-    "static/js/main.2c3f56cc.js"
+    "static/css/main.ede06763.css",
+    "static/js/main.31678123.js"
   ]
 }
