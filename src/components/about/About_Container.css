@@ -1,0 +1,21 @@
+.about__content p {
+    color: var(--color-light);
+    background-color: var(--color-bg-variant, 0.5);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+/* ---------------- Media Queries (Med Devices) ---------------- */
+@media screen and (max-width: 1024px) {
+    .about__content {
+        margin: 1rem 0 1.5rem;
+    }
+}
+
+/* ---------------- Media Queries (Small Devices) ---------------- */
+@media screen and (max-width: 600px) {
+    .about__content {
+        display: column;
+        align-items: center;
+    }
+}
