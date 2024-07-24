@@ -1,7 +1,7 @@
 import React from "react";
 import "./header.css";
-import CTA from "./CTA";
 import About from "../about/About";
+import CTA from '../about/CTA'
 
 const Header = () => {
   return (

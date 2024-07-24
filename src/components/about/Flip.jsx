@@ -6,7 +6,7 @@ import "./Flip.css"; /* change all css related to flip */
 const Flip = ({ one, two, alt }) => {
     const [over, setOver] = useState(false);
     return (
-            <div className="flip__container">
+            <div className="">
                 <div
                     className="flip__me"
                     onMouseOver={() => setOver(true)}

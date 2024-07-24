@@ -1,6 +1,6 @@
-.about__content p {
+.about__content {
     color: var(--color-light);
-    background-color: var(--color-bg-variant, 0.5);
+    background-color:blue;
     padding: 1rem;
     border-radius: 1rem;
 }

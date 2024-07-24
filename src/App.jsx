@@ -5,13 +5,15 @@ import Experience from "./components/experience/Experience";
 import Services from "./components/services/Services";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
+import About from "./components/about/About";
+
 
 const App = () => {
   const Portfolio = lazy(() => import("./components/portfolio/Portfolio"));
 
   return (
     <>
-      <Header />
+    <About />
       <Suspense fallback={"..."}>
         <Portfolio />
       </Suspense>

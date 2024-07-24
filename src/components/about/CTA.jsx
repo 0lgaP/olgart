@@ -1,12 +1,21 @@
 import React from "react";
 import Resume from "../../assets/CV Olga Perron.pdf";
-import "./header.css";
+import "./CTA.css";
 import { BsInstagram } from "react-icons/bs";
-import { FaXTwitter } from "react-icons/fa6";
+import Flip from "./Flip";
+
+/* Assests */
+import olga from "../../assets/bluehair.png"; /* change cartoon */
+import olga_head from "../../assets/olga_head.png"; /* change photo */
+
+
 const CTA = () => {
   return (
     <div className="cta__container">
       <div className="cta">
+      
+          <Flip one={olga} two={olga_head} alt={""}/>
+      
         <a href={Resume} download className="btn">
           Resume
         </a>
@@ -23,14 +32,7 @@ const CTA = () => {
         >
           <BsInstagram className="header__socials" />
         </a>
-        <a
-          href="https://twitter.com/0lgatron"
-          target="_blank"
-          rel="noreferrer"
-          aria-label="new tab to x formally twitter"
-        >
-          <FaXTwitter className="header__socials" />
-        </a>
+
       </div>
     </div>
   );

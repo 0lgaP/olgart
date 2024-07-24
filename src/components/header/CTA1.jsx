@@ -2,8 +2,8 @@ import React from "react";
 import Resume from "../../assets/CV Olga Perron.pdf";
 import "./header.css";
 import { BsInstagram } from "react-icons/bs";
-import { FaXTwitter } from "react-icons/fa6";
-const CTA = () => {
+
+const CTA1 = () => {
   return (
     <div className="cta__container">
       <div className="cta">
@@ -29,4 +29,4 @@ const CTA = () => {
   );
 };
 
-export default CTA;
+export default CTA1;

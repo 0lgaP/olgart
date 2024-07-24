@@ -1,0 +1,49 @@
+/* CTA */
+.cta__container {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.cta {
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    max-height:200px;
+    overflow:inherit;
+}
+
+/* Header Socials */
+.header__socials {
+    font-size: 3rem;
+}
+
+.header__socials::after {
+    content: "";
+    width: 2px;
+    height: 2rem;
+    background-color: var(--color-primary);
+    font-size: x-large;
+}
+
+/* ---------------- Media Queries (Med Devices) ---------------- */
+@media screen and (max-width: 1024px) {
+    .cta__container {
+        display: column;
+    }
+
+}
+
+/* ---------------- Media Queries (Small Devices) ---------------- */
+
+
+@media screen and (max-width: 400px) {
+    .cta__container {
+        display: flex;
+        gap: 1rem;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+}
