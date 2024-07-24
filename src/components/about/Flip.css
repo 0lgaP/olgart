@@ -1,0 +1,54 @@
+.flip__container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 2rem;
+    justify-content: center;
+    width: 100%;
+    place-items: center;
+  }
+  
+  .flip__me {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    background: var(--color-primary);
+    display: flex;
+    z-index: 1;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .flip__me-image {
+    justify-content: center;
+    width: 80%;
+    align-self: center;
+  }
+  
+  .flip__me-cartoon {
+    justify-content: center;
+    width: 80%;
+  }
+  
+
+  /* ---------------- Media Queries (Med Devices) ---------------- */
+  @media screen and (max-width: 1024px) {
+    .flip__container {
+      grid-template-columns: 1fr;
+      align-items: center;
+    }
+    .flip__me {
+      width: 250px;
+      height: 250px;
+      margin-bottom: 3rem;
+    }
+  }
+  
+  /* ---------------- Media Queries (Small Devices) ---------------- */
+  @media screen and (max-width: 600px) {
+    .flip__me {
+      gap: 1rem;
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  
