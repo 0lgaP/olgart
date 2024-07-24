@@ -12,9 +12,7 @@ const About = () => {
         <div className="about__content">
      <Flip one={olga} two={olga_head} alt={"blue girl cartoon turns into my smily freckled face"} />
           <p>
-          Howdy ya’ll, 
-I am AlienToronto, an artist specializing in acrylic paintings which inspect the Toronto-coded similarities between mundane and cosmic. I'm looking to paint up your wall, garage or fence real nice! This summer I am looking to take my art to the public, and if you are here  score I'm nailing it so far!
-
+          Toronto artist specializing in acrylic paintings in the illustrative, representational, urban, lowbrow, comic, pop art style. My work inspects the similarities between mundane and cosmic, encouraging you to explore your own ‘otherness’. Please enjoy my corner of the internet, and follow me on instagram for live updates.
           </p>
         </div>
     </section>
