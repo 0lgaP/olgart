@@ -2,12 +2,61 @@
   width: var(--container-width-lg);
   display: flex;
   justify-content: center;
+
+
+
 }
 
-.contact__options {
-  display: flex;
-  width: 100%;
+.container.contact__container>a {
+  padding: 1rem 0.5rem;
+
 }
+
+.alien_header__socials {
+  font-size: 3rem;
+  margin-right: 1rem;
+  margin-top: -0.5rem;
+}
+
+
+
+.alien_footer__socials {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding-top: 20rem;
+  background: url('../../assets/Header.png');
+  background-size: clamp(1000px, 60%, 1000px) auto;
+  background-repeat: no-repeat;
+  background-position: top;
+  padding-bottom: 40rem;
+
+
+
+}
+
+.alien_footer__socials a {
+
+  color: var(--color-white);
+
+  border-radius: 0.7rem;
+  display: flex;
+  background-color: var(--color-bg-variant);
+  border: 3px solid var(--color-bg-variant);
+
+}
+
+:hover.alien_footer__socials a {
+
+  color: var(--color-bg-variant);
+  background-color: var(--color-primary-variant);
+
+}
+
+
+
 
 input:focus,
 textarea:focus {
@@ -20,9 +69,12 @@ textarea:focus {
   padding: 1.2rem;
   border-radius: 1.2rem;
   text-align: center;
-  border: 1px solid transparent;
+  display: flex;
+  flex-direction: column;
   transition: var(--transition);
-  width: 100%;
+  justify-content: center;
+  border: 3px solid var(--color-bg-variant);
+  width: 35rem;
 }
 
 .contact__option h3 {
@@ -30,19 +82,22 @@ textarea:focus {
 }
 
 .contact__option:hover {
-  background: transparent;
-  border-color: var(--color-primary-variant);
+  background: var(--color-primary-variant);
+  border-color: var(--color-bg-variant);
+  color: var(--color-bg-variant);
 }
 
 .contact__option-icon {
   font-size: 1.5rem;
   margin-bottom: 0.5rem;
+  border-color: var(--color-bg-variant);
 }
 
 .contact__option a {
   margin-top: 0.7rem;
   display: inline-block;
   font-size: 0.8rem;
+  background: var(--color-bg-variant);
 }
 
 /* Form */
@@ -51,6 +106,7 @@ form {
   display: flex;
   flex-direction: column;
   gap: 1.2rem;
+  align-items: center;
 }
 
 input,
@@ -67,19 +123,4 @@ textarea {
 .visuallyhidden {
   display: none;
   visibility: hidden;
-}
-
-/* ---------------- Media Queries (Med Devices) ---------------- */
-@media screen and (max-width: 1024px) {
-  .container.contact__container {
-    grid-template-columns: 1fr;
-    gap: 2rem;
-  }
-}
-
-/* ---------------- Media Queries (Small Devices) ---------------- */
-@media screen and (max-width: 600px) {
-  .container.contact__container {
-    width: 75%;
-  }
 }

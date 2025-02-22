@@ -1,7 +1,8 @@
 .services__container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 3rem;
+
+  grid-template-columns: 1fr;
+  gap: 2rem;
 }
 .services__item-desc {
   color: var(--color-bg-variant);
@@ -9,12 +10,16 @@
 .service {
   background: var(--color-bg-variant);
   border-radius: 0 0 2rem 2rem;
-  border: 1px solid var(--color-primary);
+
   height: auto;
   transition: var(--transition);
   font-weight: 500;
 }
 
+.alien-img{
+  width:50%;
+
+}
 .test {
   background-color: blue;
 }

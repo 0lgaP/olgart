@@ -7,9 +7,9 @@ const CTA = () => {
   return (
     <div className="cta__container">
       <div className="cta">
-        <a href={Resume} download className="btn">
+        {/* <a href={Resume} download className="btn">
           Resume
-        </a>
+        </a> */}
         <a href="#contact" className="btn btn-primary">
           Contact
         </a>
@@ -29,7 +29,7 @@ const CTA = () => {
           rel="noreferrer"
           aria-label="new tab to x formally twitter"
         >
-          <FaXTwitter className="header__socials" />
+
         </a>
       </div>
     </div>

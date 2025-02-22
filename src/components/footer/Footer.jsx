@@ -31,14 +31,7 @@ const Footer = () => {
         >
           <BsInstagram className="header__socials" />
         </a>
-        <a
-          href="https://twitter.com/0lgatron"
-          target="_blank"
-          rel="noreferrer"
-          aria-label="new tab to x formally twitter"
-        >
-          <FaXTwitter className="header__socials" />
-        </a>
+
       
       </div>
     </footer>

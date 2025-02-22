@@ -12,9 +12,7 @@ const App = () => {
   return (
     <>
       <Header />
-      <Suspense fallback={"..."}>
-        <Portfolio />
-      </Suspense>
+      <Services />
       <Contact />
       <Footer />
     </>
@@ -22,3 +20,7 @@ const App = () => {
 };
 
 export default App;
+
+      // <Suspense fallback={"..."}>
+      //   <Portfolio />
+      // </Suspense>

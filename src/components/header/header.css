@@ -14,6 +14,11 @@ header {
   top: 3px;
 }
 
+.alien__signage{
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
 /* CTA */
 .cta__container {
   display: flex;
