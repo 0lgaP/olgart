@@ -1,6 +1,6 @@
 import React from "react";
 import "./services.css";
-import { BiCheck } from "react-icons/bi";
+import { FaStar } from "react-icons/fa";
 
 interface ServiceListProps {
   employer: string;
@@ -23,7 +23,7 @@ export const ServicesList = (props: Services) => {
         {bullets?.map((bullet) => (
           <li key={bullet}>
             <div className="service__list-icon">
-              <BiCheck />
+              <FaStar />
             </div>
             {bullet}
           </li>

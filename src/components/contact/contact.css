@@ -26,9 +26,9 @@
   align-items: center;
   justify-content: center;
   gap: 1rem;
-  padding-top: 20rem;
+  padding-top: 15rem;
   background: url('../../assets/Header.png');
-  background-size: clamp(1000px, 60%, 1000px) auto;
+  background-size: clamp(800px, 60%, 700px) auto;
   background-repeat: no-repeat;
   background-position: top;
   padding-bottom: 40rem;

@@ -3,6 +3,9 @@ import Resume from "../../assets/CV Olga Perron.pdf";
 import "./header.css";
 import { BsInstagram } from "react-icons/bs";
 import { FaXTwitter } from "react-icons/fa6";
+import { SiGooglecalendar } from "react-icons/si";
+
+
 const CTA = () => {
   return (
     <div className="cta__container">
@@ -10,8 +13,23 @@ const CTA = () => {
         {/* <a href={Resume} download className="btn">
           Resume
         </a> */}
-        <a href="#contact" className="btn btn-primary">
-          Contact
+        <a
+          href="https://calendar.app.google/SJYYvKLcjEr2mqjL8"
+          target="_blank"
+          rel="noreferrer"
+          aria-label="opens new tab to Google Calendar"
+        >
+         <SiGooglecalendar className="header__socials" />
+        </a>
+       
+        <a href="https://calendar.app.google/SJYYvKLcjEr2mqjL8"
+          target="_blank"
+          rel="noreferrer"
+          aria-label="opens new tab to Google Calendar"
+           className="btn btn-primary"
+        >
+          
+          Book  
         </a>
       </div>
       <div className="cta">
