@@ -1,6 +1,6 @@
 import React from "react";
 import "./services.css";
-import { ServicesList } from './services.tsx';
+import { ServicesList } from './services_alt.tsx';
 import { MFTU, Probing, Private, Book } from "./resume";
 import alien from '../../assets/Bodyshot phone.png'
 

@@ -20,6 +20,6 @@ const App = () => {
 
 export default App;
 
-      // <Suspense fallback={"..."}>
-      //   <Portfolio />
-      // </Suspense>
+// <Suspense fallback={"..."}>
+//   <Portfolio />
+// </Suspense>
