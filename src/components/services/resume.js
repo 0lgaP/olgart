@@ -86,10 +86,21 @@ export const Probing = {
 }
 export const Private = {
   employer: 'Private Spread',
-  title: '$42.00 30min',
+  title: '$42.00 /30min',
   bullets: [
     "You want to set sail after the holy grail. You've got plans and you need the universe to help you crush said plans",
     "Heavy, full bodied, crying allowed",
     "No friends, bring your honest heart and some kindness for the queerend",
+  ]
+}
+export const Book = {
+  employer: 'Book Space Cathederal',
+  title: 'Free',
+  bullets: [
+    "Invite me to crashland your bar, cluhb, bookshop, eatery, theatre, market or festival",
+    "Age appropriate (16+) and extra shiny and flourecent",
+    "Every one who wants to interact with the Alien is welcome to say howdy",
+    "Readings available to the interested humans at prices listed above",
+    "No Private Spreads" 
   ]
 }

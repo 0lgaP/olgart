@@ -25,11 +25,14 @@ const About = () => {
           <div className="alien__card_m">
           <div className="alien__card_b"> */}
               <p>
-              👽 Ever had a moment so perfectly timed it felt like the universe was winking at you? That’s the energy I bring to my tarot readings—where coincidence and curiosity collide in the most unexpected ways.
+              👽 Ever had a moment so perfectly timed it felt like the universe was winking at you? That’s the energy I bring to my tarot performance.
               <br></br>      <br></br>
-</p>✨ Magic? Luck? Cosmic chaos? You decide. But one thing’s for sure—you won’t forget it.
+</p>🛸 Magic? Intuition? Artistic Drama? 
+<br></br>
+You decide. 
+Only one thing’s gueranteed, you are about to experiance something completely different from your regularely scheduled programming.
 <p>
-✨ Whether you’re planning an event, or just want a one-on-one reading that lights up your day in the weirdest, most delightful way possible, I’ve got you covered.
+ 
 </p>
 
 <br></br>

@@ -47,29 +47,29 @@ export const Form = () => {
 
   return (
     <article className="contact__option">
-      <h3>Send Message</h3>
+      <h3>Ask Me Anything</h3>
       <fieldset>
         <form ref={form} onSubmit={sendEmail}>
           <label for="name" class="visuallyhidden">
-            Your Name
+            Name
           </label>
           <input
             type="text"
             id="name"
             name="name"
-            placeholder="Your Name"
+            placeholder="Your Human Name"
             required
             onFocus={() => scrollTo("name")}
           />
           <label for="name" class="visuallyhidden">
-            Your Email
+            Email
           </label>
           <input
             type="text"
             id="email"
             name="email"
             onFocus={() => scrollTo("email")}
-            placeholder="Your Email"
+            placeholder="Electronic Mail Address"
           />
           <label for="name" class="visuallyhidden">
             Your Message
@@ -78,7 +78,7 @@ export const Form = () => {
             id="message"
             name="message"
             rows="7"
-            placeholder="Your Message"
+            placeholder="Your Deeply important question"
             required
             onFocus={() => scrollTo("message")}
           ></textarea>

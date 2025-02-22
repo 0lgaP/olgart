@@ -55,15 +55,17 @@ body {
 
 h1,
 h2,
-h3,
-h4,
-h5 {
-  font-weight: 500;
+h3 {
+  font-weight: 800;
+
 }
 
+h2 {
+  font-size: 2.5rem;
+}
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 
 section {
@@ -80,6 +82,7 @@ section > h5 {
 section > h2 {
   color: var(--color-primary);
   margin-bottom: 1rem;
+
 }
 
 .text-light {
@@ -96,7 +99,7 @@ a:hover {
 }
 
 .btn {
-  width: max-content;
+
   height: 3rem;
   display: inline-block;
   color: var(--color-primary);
