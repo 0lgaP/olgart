@@ -63,4 +63,33 @@ export const DX = {
     "Website maintenance for the Expo Design Innovation and Technology (EDIT 2017)",
     "Content creation for tours, workshops and public program"
   ]
+
+}
+
+export const MFTU = {
+  employer: 'Message from the Universe',
+  title: '$7.77' ,
+  bullets: [
+    "One card reading helping the curious take this trip around the sun and THRIVE IT",
+    "Simple, quick, and sure to start a conversation",
+    "Bring a friend, nothing emberassing or personal here, just good strange fun",
+  ]
+}
+export const Probing = {
+  employer: 'Probe a Problem',
+  title: '$15.00',
+  bullets: [
+    "Three card reading for if you've got a problem and must solve it, while I check out the hook, and the DJ revolves it",
+    "Spicy, honest, bold flavours perfect for tasty snack",
+    "Bring a friend at your own discression, especially if we're asking spicy questions!",
+  ]
+}
+export const Private = {
+  employer: 'Private Spread',
+  title: '$42.00 30min',
+  bullets: [
+    "You want to set sail after the holy grail. You've got plans and you need the universe to help you crush said plans",
+    "Heavy, full bodied, crying allowed",
+    "No friends, bring your honest heart and some kindness for the queerend",
+  ]
 }

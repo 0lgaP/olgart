@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import "./about.css";
-import olga from "../../assets/bluehair.png";
-import olga_head from "../../assets/olga_head.png";
+import olga_head from "../../assets/Phone circle.png";
+import olga from "../../assets/Cow head cutout.png";
+import header from "../../assets/At board wt.png";
 
 const About = () => {
   const [over, setOver] = useState(false);
@@ -19,12 +20,25 @@ const About = () => {
             alt=""
           />
         </div>
-        <div className="about__content">
-          <p>
-          Howdy ya’ll, 
-I am AlienToronto, an artist specializing in acrylic paintings which inspect the Toronto-coded similarities between mundane and cosmic. I'm looking to paint up your wall, garage or fence real nice! This summer I am looking to take my art to the public, and if you are here  score I'm nailing it so far!
+        <div className="about__card">
+          {/* <div className="alien__card">
+          <div className="alien__card_m">
+          <div className="alien__card_b"> */}
+              <p>
+              👽 Ever had a moment so perfectly timed it felt like the universe was winking at you? That’s the energy I bring to my tarot readings—where coincidence and curiosity collide in the most unexpected ways.
+              <br></br>      <br></br>
+</p>✨ Magic? Luck? Cosmic chaos? You decide. But one thing’s for sure—you won’t forget it.
+<p>
+✨ Whether you’re planning an event, or just want a one-on-one reading that lights up your day in the weirdest, most delightful way possible, I’ve got you covered.
+</p>
 
-          </p>
+<br></br>
+<p>
+
+                📩 Let’s make some memorable memories together.
+          
+              </p>
+
         </div>
       </div>
     </section>

@@ -5,6 +5,11 @@
   justify-content: center;
   width: 100%;
   place-items: center;
+  padding-top: 1rem;
+  /* background-image: url('../../assets/Header.png');
+  background-size: cover;
+
+  background-repeat: no-repeat; */
 }
 
 .about__me {
@@ -28,6 +33,18 @@
   justify-content: center;
   width: 90%;
 }
+/* .alien__card {
+
+}
+.alien__top {
+
+}
+.alien__mid {
+
+}
+.alien__bottom {
+
+} */
 
 .about__cards {
   display: grid;
@@ -40,15 +57,32 @@
   border: 1px solid transparent;
   border-radius: 1rem;
   padding: 2rem;
-  text-align: center;
+  text-align: left;
   transition: var(--transition);
 }
 
-.about__card:hover {
-  background: transparent;
-  border-color: var(--color-primary-variant);
-  cursor: default;
+.alien__card {
+  background: url('../../assets/Atop.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+
 }
+.alien__card_m {
+  background: url('../../assets/Atmiddle.png');
+  background-size: cover;
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat;
+
+}
+.alien__card_b {
+  background: url('../../assets/Atbottom.png');
+  padding: 2rem;
+  background-size: cover;
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat;
+
+}
+
 
 .about__icon {
   color: var(--color-primary);
