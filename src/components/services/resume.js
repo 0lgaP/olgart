@@ -68,39 +68,38 @@ export const DX = {
 
 export const MFTU = {
   employer: 'Message from the Universe',
-  title: '$7.77' ,
+  title: '$11.11' ,
   bullets: [
-    "One card reading helping the curious take this trip around the sun and THRIVE IT",
+    "One card reading - what do you want? cool, let's ask the you that got it what they did, and then you can take your own advice or leave it.",
     "Simple, quick, and sure to start a conversation",
     "Bring a friend, nothing emberassing or personal here, just good strange fun",
   ]
 }
 export const Probing = {
-  employer: 'Probe a Problem',
-  title: '$15.00',
+  employer: 'The Cosmic Forecast',
+  title: '$22.22',
   bullets: [
-    "Three card reading for if you've got a problem and must solve it, while I check out the hook, and the DJ revolves it",
+    "Three card reading - What do you want? cool, we ask the you that got it, then we ask the universe for tech support and she draws you a map.",
     "Spicy, honest, bold flavours perfect for tasty snack",
-    "Bring a friend at your own discression, especially if we're asking spicy questions!",
+    "Bring a friend at your own discression it's a bit longer than a quick message!",
   ]
 }
 export const Private = {
-  employer: 'Private Spread',
+  employer: 'LOL (Love Of ur Life)',
   title: '$42.00 /30min',
   bullets: [
-    "You want to set sail after the holy grail. You've got plans and you need the universe to help you crush said plans",
+    "7 card spread helping you find and capture the avatar... i mean the LOL",
     "Heavy, full bodied, crying allowed",
-    "No friends, bring your honest heart and some kindness for the queerend",
+    "No friends, bring your honest heart and some kindness for the queerend - that's you",
   ]
 }
 export const Book = {
-  employer: 'Book Space Cathederal',
+  employer: 'Invite a Crashlanding',
   title: 'Free',
   bullets: [
     "Invite me to crashland your bar, cluhb, bookshop, eatery, theatre, market or festival",
     "Age appropriate (16+) and extra shiny and flourecent",
-    "Every one who wants to interact with the Alien is welcome to say howdy",
+    "Every one who wants to interact with the Alien is welcome to say howdy, take photos for the 'gram, dance with me",
     "Readings available to the interested humans at prices listed above",
-    "No Private Spreads" 
   ]
 }
