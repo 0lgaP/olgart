@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.98150827.css",
-    "main.js": "/static/js/main.0e427c22.js",
+    "main.css": "/static/css/main.80deaed9.css",
+    "main.js": "/static/js/main.0f7e03cc.js",
     "static/css/761.6bc9ac74.chunk.css": "/static/css/761.6bc9ac74.chunk.css",
     "static/js/761.bef203b1.chunk.js": "/static/js/761.bef203b1.chunk.js",
     "static/media/Bodyshot phone.png": "/static/media/Bodyshot phone.6f82f9595162a3de8fc8.png",
@@ -13,20 +13,18 @@
     "static/media/Phone circle.png": "/static/media/Phone circle.834ef72d85c01a2d72e6.png",
     "static/media/Cow head cutout.png": "/static/media/Cow head cutout.b42f7a00e70fce83dad0.png",
     "static/media/Header.png": "/static/media/Header.f839de358538eb6dd4ab.png",
-    "static/media/At board wt.png": "/static/media/At board wt.c9ebc394c97397b041c0.png",
     "static/media/Atop.png": "/static/media/Atop.75d65b68752379cba5b8.png",
     "static/media/Atbottom.png": "/static/media/Atbottom.7fd9a0b106ef409131d9.png",
     "static/media/Atmiddle.png": "/static/media/Atmiddle.1d1e4f828454af417a08.png",
     "static/media/backdrop.png": "/static/media/backdrop.d932eef4f0dd4a071c3d.png",
-    "static/media/CV Olga Perron.pdf": "/static/media/CV Olga Perron.018ce0ebd78993522a9e.pdf",
     "index.html": "/index.html",
-    "main.98150827.css.map": "/static/css/main.98150827.css.map",
-    "main.0e427c22.js.map": "/static/js/main.0e427c22.js.map",
+    "main.80deaed9.css.map": "/static/css/main.80deaed9.css.map",
+    "main.0f7e03cc.js.map": "/static/js/main.0f7e03cc.js.map",
     "761.6bc9ac74.chunk.css.map": "/static/css/761.6bc9ac74.chunk.css.map",
     "761.bef203b1.chunk.js.map": "/static/js/761.bef203b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98150827.css",
-    "static/js/main.0e427c22.js"
+    "static/css/main.80deaed9.css",
+    "static/js/main.0f7e03cc.js"
   ]
 }
