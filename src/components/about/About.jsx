@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "./about.css";
 import olga_head from "../../assets/Phone circle.png";
 import olga from "../../assets/Cow head cutout.png";
-import header from "../../assets/At board wt.png";
 
 const About = () => {
   const [over, setOver] = useState(false);
@@ -38,7 +37,7 @@ Only one thing’s gueranteed, you are about to experiance something completely 
 <br></br>
 <p>
 
-                📩 Let’s make some memorable memories together.
+                📩 Let’s make some memorable memories together, reach me at alientorontoart@gmail.com or DM on the Gram
           
               </p>
 

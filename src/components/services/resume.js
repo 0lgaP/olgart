@@ -103,3 +103,13 @@ export const Book = {
     "Readings available to the interested humans at prices listed above",
   ]
 }
+export const Contact = {
+  employer: 'How to contact the Alien',
+  title: 'Email, IG DM, Crop circles',
+  bullets: [
+    "To grab my email, click the mail icon, this will copy my email address, you may now paste it into your AOL email account!",
+    "DM me on Instagram, I beg of you, this is my prefered form of human contact. I love to see your lovely hams, Instagram lets me Picachu while we speak!",
+    "Don't have instagram? I invite you to come check out the YouTube channel, I am always a few days behind, so for every day consistant 7 am content... it's me instagram",
+    "Alien Tarot Readings are available in person, over the internet, or telepathically",
+  ]
+}

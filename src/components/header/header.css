@@ -3,6 +3,9 @@ header {
   padding-top: 2rem;
   overflow: hidden;
 }
+.btn {
+  font-weight: 800;
+}
 
 .header__container {
   text-align: center;
@@ -35,6 +38,16 @@ header {
 /* Header Socials */
 .header__socials {
   font-size: 3rem;
+}
+
+/*Email CSS */
+.email__style {
+  display: flex;
+  font-size: 3rem;
+}
+.email__span{
+  margin: -10px;
+  color: yellow;
 }
 
 .header__socials::after {

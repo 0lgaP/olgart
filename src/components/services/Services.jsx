@@ -1,7 +1,7 @@
 import React from "react";
 import "./services.css";
 import { ServicesList } from './services_alt.tsx';
-import { MFTU, Probing, Private, Book } from "./resume";
+import { MFTU, Probing, Private, Book, Contact } from "./resume";
 import alien from '../../assets/Bodyshot phone.png'
 
 const Services = () => {
@@ -16,6 +16,7 @@ const Services = () => {
         <ServicesList role={Probing} />
         <ServicesList role={Private} />
         <ServicesList role={Book} />
+        <ServicesList role={Contact} />
       </div>
 
     </section>
