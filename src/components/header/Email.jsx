@@ -27,7 +27,7 @@ function EmailCopyComponent() {
       >
         < HiOutlineMail  />
       </span>
-      {copyStatus && <p style={{ position: 'fixed', transform: 'translate(-50%, -50%)', left: '50%', top: '50%', padding: '10px', color:' rgb(177, 60, 147)', background: ' rgba(255, 230, 8, 0.77)', borderRadius: '20px' }}>{copyStatus}</p>}
+      {copyStatus && <p style={{ position: 'fixed', index: '1000', transform: 'translate(-50%, -50%)', left: '50%', top: '50%', padding: '10px', color:' rgb(177, 60, 147)', background: ' rgba(255, 230, 8, 0.77)', borderRadius: '20px' }}>{copyStatus}</p>}
     </div>
   );
 }
