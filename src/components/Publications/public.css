@@ -22,7 +22,7 @@
   .public__textbox {
     display: flex;
     flex-direction: column;
-    padding-left: 1.5rem;
+    padding-left: 1rem;
     color:  rgba(38, 17, 100, 0.9);
     overflow: scroll;
     max-height: 100px;
@@ -46,10 +46,9 @@
     border-radius: 20px;
     display: flex;
     color: var(--color-primary);
-    justify-content: flex-end;
+    justify-content: center;
     margin-bottom: 20px;
-
-    
+    padding-left: 9px;
   }
   .public__link:hover {
     color: var(--color-bg);

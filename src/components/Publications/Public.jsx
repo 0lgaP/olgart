@@ -37,9 +37,9 @@ const Public = () => {
                             rel="noreferrer"
                             aria-label="new tab to Aubirn Lane article"
                         >
-                            <div >
-                                Take me there, I am a reader! ⚡
-                            </div>
+                            
+                                Take me there, I am a reader!⚡
+                            
                         </a>
                     </div>
                 </div>
