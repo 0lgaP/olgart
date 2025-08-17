@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a858458.css",
-    "main.js": "/static/js/main.cf0dff44.js",
+    "main.css": "/static/css/main.a818e354.css",
+    "main.js": "/static/js/main.cbc91548.js",
     "static/css/761.6bc9ac74.chunk.css": "/static/css/761.6bc9ac74.chunk.css",
     "static/js/761.bef203b1.chunk.js": "/static/js/761.bef203b1.chunk.js",
     "static/media/Bodyshot phone.png": "/static/media/Bodyshot phone.6f82f9595162a3de8fc8.png",
+    "static/media/Magician.png": "/static/media/Magician.898b85f9c310153b4f66.png",
     "static/media/P1_Groseries.jpg": "/static/media/P1_Groseries.639bb209443559d1baeb.jpg",
     "static/media/P2_BeautySalon.jpg": "/static/media/P2_BeautySalon.d7f4850d88d1b39e15b2.jpg",
     "static/media/P3_FastFood.jpg": "/static/media/P3_FastFood.98b7a20bcf244d2dc324.jpg",
@@ -12,19 +13,18 @@
     "static/media/EX2_Blue_Escher_Waterfall.jpg": "/static/media/EX2_Blue_Escher_Waterfall.6a376df828f2d6a36bdd.jpg",
     "static/media/Phone circle.png": "/static/media/Phone circle.834ef72d85c01a2d72e6.png",
     "static/media/Cow head cutout.png": "/static/media/Cow head cutout.b42f7a00e70fce83dad0.png",
-    "static/media/Header.png": "/static/media/Header.f839de358538eb6dd4ab.png",
     "static/media/Atop.png": "/static/media/Atop.75d65b68752379cba5b8.png",
     "static/media/Atbottom.png": "/static/media/Atbottom.7fd9a0b106ef409131d9.png",
     "static/media/Atmiddle.png": "/static/media/Atmiddle.1d1e4f828454af417a08.png",
     "static/media/backdrop.png": "/static/media/backdrop.d932eef4f0dd4a071c3d.png",
     "index.html": "/index.html",
-    "main.7a858458.css.map": "/static/css/main.7a858458.css.map",
-    "main.cf0dff44.js.map": "/static/js/main.cf0dff44.js.map",
+    "main.a818e354.css.map": "/static/css/main.a818e354.css.map",
+    "main.cbc91548.js.map": "/static/js/main.cbc91548.js.map",
     "761.6bc9ac74.chunk.css.map": "/static/css/761.6bc9ac74.chunk.css.map",
     "761.bef203b1.chunk.js.map": "/static/js/761.bef203b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a858458.css",
-    "static/js/main.cf0dff44.js"
+    "static/css/main.a818e354.css",
+    "static/js/main.cbc91548.js"
   ]
 }
