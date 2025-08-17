@@ -5,6 +5,8 @@ import Experience from "./components/experience/Experience";
 import Services from "./components/services/Services";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
+import Public from "./components/Publications/Public";
+
 
 const App = () => {
   const Portfolio = lazy(() => import("./components/portfolio/Portfolio"));
@@ -12,6 +14,7 @@ const App = () => {
   return (
     <>
       <Header />
+      <Public />
       <Services />
       <Footer />
     </>

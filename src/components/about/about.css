@@ -12,6 +12,16 @@
   background-repeat: no-repeat; */
 }
 
+.reveal__button {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--color-bg);
+  color: var(--color-white);
+  line-height: 1.7;
+  background-size: 15rem;
+  font-size: medium;
+  padding: 0 10px;
+}
+
 .about__me {
   border-radius: 50%;
   width: 250px;

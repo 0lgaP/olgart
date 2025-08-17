@@ -88,7 +88,7 @@ export const Private = {
   employer: 'LOL (Love Of ur Life)',
   title: '$42.00 /30min',
   bullets: [
-    "7 card spread helping you find and capture the avatar... i mean the LOL",
+    "7 card spread helping you find and capture the avatar... I mean the LOL",
     "Heavy, full bodied, crying allowed",
     "No friends, bring your honest heart and some kindness for the queerend - that's you",
   ]
@@ -111,5 +111,15 @@ export const Contact = {
     "DM me on Instagram, I beg of you, this is my prefered form of human contact. I love to see your lovely hams, Instagram lets me Picachu while we speak!",
     "Don't have instagram? I invite you to come check out the YouTube channel, I am always a few days behind, so for every day consistant 7 am content... it's me instagram",
     "Alien Tarot Readings are available in person, over the internet, or telepathically",
+  ]
+}
+export const Birthday = {
+  employer: 'Birthday | Anniversery',
+  title: '88.88 + ufo fuel',
+  bullets: [
+    "Want to blow your loved one's entire mind this year?",
+    "Let's make it into an experiance of a life time by pausing your loop",
+    "I show up in your life in person, or some loving family member contacts me and we gaslight you into thinking this is random 😈  ",
+    "We look at the lessons from last year, check for termites, make a wish, and then get detailed instructions on how to ensure it comes true, NO FORTUNES 💃",
   ]
 }

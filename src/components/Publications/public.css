@@ -1,0 +1,130 @@
+.public__container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    place-items: center;
+    padding-top: 1rem;
+
+  }
+  
+  
+  .public__me-image {
+    justify-content: center;
+    width: 150px;
+    align-self: center;
+  }
+  
+  .public__me-cartoon {
+    justify-content: center;
+    width: 90%;
+  }
+ 
+  .public__textbox {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1.5rem;
+    color: var(--color-bg-variant);
+    font-size: large;
+    
+  }
+  
+  .public__card {
+    background: var(--color-primary);
+    border: 1px solid transparent;
+    padding: 2rem;
+    display: flex;
+    height: 230px;
+    align-items: center;
+
+   
+  }
+  .public__link {
+    background-color: var(--color-bg-variant);
+    border-radius: 20px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .alien__card {
+    background: url('../../assets/Atop.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+  }
+  .alien__card_m {
+    background: url('../../assets/Atmiddle.png');
+    background-size: cover;
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat;
+  
+  }
+  .alien__card_b {
+    background: url('../../assets/Atbottom.png');
+    padding: 2rem;
+    background-size: cover;
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat;
+  
+  }
+  
+  
+  .public__icon {
+    color: var(--color-primary);
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+  }
+  
+  .public__card h5 {
+    font-size: 0.95rem;
+  }
+  
+  .public__card small {
+    font-size: 0.7rem;
+    color: var(--color-light);
+  }
+  
+  .public__content p {
+    color: var(--color-light);
+    background-color: var(--color-bg-variant, 0.5);
+    padding: 1rem;
+    border-radius: 1rem;
+  }
+  
+  .public__cta-button {
+    display: flex;
+    justify-content: center;
+  }
+  /* ---------------- Media Queries (Med Devices) ---------------- */
+  @media screen and (max-width: 1024px) {
+    .public__container {
+      grid-template-columns: 1fr;
+      align-items: center;
+    }
+    .public__me {
+      width: 250px;
+      height: 250px;
+      margin-bottom: 3rem;
+    }
+    .public__content {
+      margin: 1rem 0 1.5rem;
+    }
+  }
+  
+  /* ---------------- Media Queries (Small Devices) ---------------- */
+  @media screen and (max-width: 600px) {
+    .public__me {
+      gap: 1rem;
+      display: flex;
+      flex-direction: column;
+    }
+    .public__cards {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+  
+    .public__content {
+      display: column;
+      align-items: center;
+    }
+  }
+  

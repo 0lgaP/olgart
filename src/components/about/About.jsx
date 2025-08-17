@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import "./about.css";
 import olga_head from "../../assets/Phone circle.png";
 import olga from "../../assets/Cow head cutout.png";
+import Reveal from "./Reveal";
+
 
 const About = () => {
   const [over, setOver] = useState(false);
@@ -20,26 +22,36 @@ const About = () => {
           />
         </div>
         <div className="about__card">
-          {/* <div className="alien__card">
-          <div className="alien__card_m">
-          <div className="alien__card_b"> */}
-              <p>
-              👽 Ever had a moment so perfectly timed it felt like the universe was winking at you? That’s the energy I bring to my tarot performance.
-              <br></br>      <br></br>
-</p>🛸 Magic? Intuition? Artistic Drama? 
-<br></br>
-You decide. 
-Only one thing’s gueranteed, you are about to experiance something completely different from your regularely scheduled programming.
-<p>
- 
-</p>
+        <p>
+        🐄 I’m here to abduct every willing human into their own best timeline
+            <br></br>      <br></br>
+            </p>
+          <p>
+            👽 Never had a Tarot Reading before? 
+            <br></br> 
+            ✅ Great! 
+            <br></br> 
+            You can still claim that when we’re done here. I can't see the future, I translate tarot cards. The message form <strong>the universe</strong> is simply from your <strong>best timeline</strong>.
+            <br></br>      <br></br>
+          </p>🛸 Magic? Intuition? Logic and Initiative? I'm sure it's magic. 
+          <br></br>
+          yet I still allow you to decide for yourself!
+          Only one thing’s gueranteed, you are about to experiance something completely different from your regularely scheduled programming.
+          <p>
 
-<br></br>
-<p>
+          </p>
 
-                📩 Let’s make some memorable memories together, reach me at alientorontoart@gmail.com or DM on the Gram
-          
-              </p>
+          <br></br>
+          <p>
+
+            📩 Let’s make some memorable memories together, reach me at <Reveal /> or 
+            <a href="https://www.instagram.com/alientoronto/"
+             target="_blank"
+             rel="noreferrer"
+             aria-label="new tab Instagram"
+            >DM on the Gram</a>
+
+          </p>
 
         </div>
       </div>
