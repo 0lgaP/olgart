@@ -25,7 +25,7 @@ const Public = () => {
                                 🌹 Auburn Lane
                             </h3>
                             <p>
-                                This wonderful female-lead publication catured some deep Alien Toronto lore. If you even wondered..."why?", this will answer some but not all of your questions!
+                                Wanna read me story? This wonderful female-lead publication catured some deep Alien Toronto lore. If you even wondered..."why?", this will answer some but not all of your questions!
                                 <br></br>
                             </p>
                     
