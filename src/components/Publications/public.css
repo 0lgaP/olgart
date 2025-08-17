@@ -24,10 +24,11 @@
     flex-direction: column;
     padding-left: 1.5rem;
     color:  rgba(38, 17, 100, 0.9);
-    font-size: large;
-    
+    overflow: scroll;
+    max-height: 100px;
+
   }
-  
+
   .public__card {
     background: var(--color-primary);
     border: 1px solid transparent;
@@ -35,20 +36,25 @@
     display: flex;
     height: 230px;
     align-items: center;
-
+    gap:1rem;
    
   }
+
+
   .public__link {
     background-color:  var(--color-bg-variant);
     border-radius: 20px;
     display: flex;
     color: var(--color-primary);
     justify-content: flex-end;
+    margin-bottom: 20px;
 
+    
   }
   .public__link:hover {
     color: var(--color-bg);
   }
+
   
   .alien__card {
     background: url('../../assets/Atop.png');

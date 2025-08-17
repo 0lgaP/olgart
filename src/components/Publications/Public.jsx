@@ -17,16 +17,20 @@ const Public = () => {
                         src={olga_head}
                         alt=""
                     />
-                    <div className="public__textbox">
+                    <div>
+                        <div className=" public__textbox">
+                       
 
-                        <h3>
-                            🌹 Auburn Lane
-                        </h3>
-                        <p>
-                            This wonderful female-lead publication catured some deep Alien Toronto lore. If you even wondered..."why?", this will answer some but not all of your questions!
-                            <br></br>
-                        </p>
-
+                            <h3>
+                                🌹 Auburn Lane
+                            </h3>
+                            <p>
+                                This wonderful female-lead publication catured some deep Alien Toronto lore. If you even wondered..."why?", this will answer some but not all of your questions!
+                                <br></br>
+                            </p>
+                    
+                        </div>
+                        <br></br>
                         <a href="https://www.auburnlane.com/alien-toronto-offers-cosmic-tarot-readings-at-buskerfest/"
                             className="public__link"
                             target="_blank"
@@ -40,7 +44,7 @@ const Public = () => {
                     </div>
                 </div>
             </div>
-    
+
         </section >
     );
 };
