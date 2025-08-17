@@ -35,7 +35,7 @@ const About = () => {
             <br></br>      <br></br>
           </p>🛸 Magic? Intuition? Logic and Initiative? I'm sure it's magic. 
           <br></br>
-          yet I still allow you to decide for yourself!
+          Y&et I still allow you to decide for yourself!
           Only one thing’s gueranteed, you are about to experiance something completely different from your regularely scheduled programming.
           <p>
 
@@ -49,7 +49,7 @@ const About = () => {
              target="_blank"
              rel="noreferrer"
              aria-label="new tab Instagram"
-            >DM on the Gram</a>
+            > <strong>DM me on the Gram</strong></a>
 
           </p>
 
