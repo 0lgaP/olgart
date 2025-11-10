@@ -123,3 +123,12 @@ export const Birthday = {
     "We look at the lessons from last year, check for termites, make a wish, and then get detailed instructions on how to ensure it comes true, NO FORTUNES 💃",
   ]
 }
+export const Holidalien = {
+  employer: 'Holiday Show Extravaganza',
+  title: '$333.33',
+  bullets: [   "20 min interactive alien performance followed by 90 min 1:1 alien readings for interested guests",
+    "Stop writing lists of demands to Santa and take the holiday magic into your own hands",
+    "Full sparkling alien tarot action, now with reversable sequin tentacles!",
+    "Book a call and check out how funny, charming and shiny I am!"
+  ]
+}
