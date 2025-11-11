@@ -19,7 +19,8 @@
   line-height: 1.7;
   background-size: 15rem;
   font-size: medium;
-  padding: 0 10px;
+  padding: 0 5px;
+  margin: 0 5px;
 }
 
 .about__me {

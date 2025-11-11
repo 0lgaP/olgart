@@ -124,11 +124,11 @@ export const Birthday = {
   ]
 }
 export const Holidalien = {
-  employer: 'Holiday Show Extravaganza',
+  employer: 'Alien Toronto Extraterrestrial Holiday Party for the People',
   title: '$333.33',
-  bullets: [   "20 min interactive alien performance followed by 90 min 1:1 alien readings for interested guests",
-    "Stop writing lists of demands to Santa and take the holiday magic into your own hands",
-    "Full sparkling alien tarot action, now with reversable sequin tentacles!",
-    "Book a call and check out how funny, charming and shiny I am!"
+  bullets: [   "20 min interactive crowd performance ",
+  " 90 min 1:1 alien readings for interested guests",
+    "Full sparkling alien tarot action, with reversable sequin tentacles, amazing dance moves, high kicks, deep questions and cosmic comedy",
+    "Book a 15 minute call so I may show your planning team how funny, charming and shiny I am!"
   ]
 }

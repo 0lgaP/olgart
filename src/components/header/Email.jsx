@@ -19,7 +19,9 @@ function EmailCopyComponent() {
   };
 
   return (
-    <div className="email__style">
+    <div className="email__style"
+    style={{ cursor: 'pointer'}}
+    >
 
       <span 
         onClick={handleCopyClick} 

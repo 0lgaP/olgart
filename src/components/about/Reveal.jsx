@@ -12,8 +12,9 @@ function Reveal() {
 
       <button onClick={toggleReveal}
        className='reveal__button'
+       style={{ cursor: 'pointer'}}
       >
-        {isRevealed ? 'alientorontoart@gmail.com' : 'Click to reveal my email address'}
+        {isRevealed ? 'alientorontoart@gmail.com' : 'email'}
       </button>
   );
 }

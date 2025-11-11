@@ -11,8 +11,8 @@ const App = () => {
   return (
     <>
       <Header />
-      <Public />
       <Services />
+      <Public />
       <Footer />
     </>
   );
