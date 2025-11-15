@@ -32,11 +32,11 @@ const About = () => {
           <p>
             👽 Never had a Tarot Reading before?
             <br></br>
-            ✅ Great!
+            ✅ Great! I'm not a Tarot Reader, I'm a Quantum Leap Reader
             <br></br>
-            You can still claim that when we’re done here.
+           What is your dream? Let's figure out hot to make it your waking reality
             <br></br>
-            🛸 Abduct Alien Toronto for your Special Holidayb Season Today through
+            🛸 Abduct Alien Toronto for your Special Holiday Season Today through
 
 
             <Reveal />, crop circles, or

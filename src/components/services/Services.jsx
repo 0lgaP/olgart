@@ -9,7 +9,7 @@ const Services = () => {
     <section id="workexperience">
       <br></br>
       <br></br>
-      <h2>Readings</h2>
+      <h2>Quantum Leap Readings</h2>
 
       <div className="container services__container">
         <ServicesList role={Holidalien} />
