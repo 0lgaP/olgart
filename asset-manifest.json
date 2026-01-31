@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.baeb6704.css",
-    "main.js": "/static/js/main.f5f728ae.js",
+    "main.css": "/static/css/main.bf3add02.css",
+    "main.js": "/static/js/main.ec257914.js",
     "static/css/761.6bc9ac74.chunk.css": "/static/css/761.6bc9ac74.chunk.css",
     "static/js/761.bef203b1.chunk.js": "/static/js/761.bef203b1.chunk.js",
     "static/media/Bodyshot phone.png": "/static/media/Bodyshot phone.6f82f9595162a3de8fc8.png",
     "static/media/Magician.png": "/static/media/Magician.898b85f9c310153b4f66.png",
+    "static/media/Empress.png": "/static/media/Empress.62d75c3837baa8c7f486.png",
     "static/media/P1_Groseries.jpg": "/static/media/P1_Groseries.639bb209443559d1baeb.jpg",
     "static/media/P2_BeautySalon.jpg": "/static/media/P2_BeautySalon.d7f4850d88d1b39e15b2.jpg",
     "static/media/P3_FastFood.jpg": "/static/media/P3_FastFood.98b7a20bcf244d2dc324.jpg",
@@ -18,13 +19,13 @@
     "static/media/Atmiddle.png": "/static/media/Atmiddle.1d1e4f828454af417a08.png",
     "static/media/backdrop.png": "/static/media/backdrop.d932eef4f0dd4a071c3d.png",
     "index.html": "/index.html",
-    "main.baeb6704.css.map": "/static/css/main.baeb6704.css.map",
-    "main.f5f728ae.js.map": "/static/js/main.f5f728ae.js.map",
+    "main.bf3add02.css.map": "/static/css/main.bf3add02.css.map",
+    "main.ec257914.js.map": "/static/js/main.ec257914.js.map",
     "761.6bc9ac74.chunk.css.map": "/static/css/761.6bc9ac74.chunk.css.map",
     "761.bef203b1.chunk.js.map": "/static/js/761.bef203b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.baeb6704.css",
-    "static/js/main.f5f728ae.js"
+    "static/css/main.bf3add02.css",
+    "static/js/main.ec257914.js"
   ]
 }
