@@ -70,27 +70,28 @@ export const MFTU = {
   employer: 'Message from the Universe',
   title: '$11.11' ,
   bullets: [
-    "One card reading - what do you want? cool, let's ask the you that got it what they did, and then you can take your own advice or leave it.",
-    "Simple, quick, and sure to start a conversation",
-    "Bring a friend, nothing emberassing or personal here, just good strange fun",
+    "One card reading - you have one missed call from miss universe, but you can't understant the cosmic signals, let me translate.",
+    "Simple, quick, and sure to start a conversation!",
+    "Bring a friend, nothing emberassing or personal here, just good strange fun.",
   ]
 }
 export const Probing = {
-  employer: 'The Cosmic Forecast',
+  employer: 'Best Timeline Insurance Policy',
   title: '$22.22',
   bullets: [
-    "Three card reading - What do you want? cool, we ask the you that got it, then we ask the universe for tech support and she draws you a map.",
-    "Spicy, honest, bold flavours perfect for tasty snack",
-    "Bring a friend at your own discression it's a bit longer than a quick message!",
+    "Three card reading - What do you want? Bring your desires, and I will ask Miss universe for tech support, let's get you whatever you want.",
+    "Available day/night online through Instagram",
+    "Spicy, honest, bold flavours perfect for tasty snack!",
+    "Bring a friend at your own discression it's a bit longer than a quick message.",
   ]
 }
 export const Private = {
   employer: 'LOL (Love Of ur Life)',
   title: '$42.00 /30min',
   bullets: [
-    "7 card spread helping you find and capture the avatar... I mean the LOL",
+    "7 card spread helping you find your love",
     "Heavy, full bodied, crying allowed",
-    "No friends, bring your honest heart and some kindness for the queerend - that's you",
+    "No friends, bring your honest heart",
   ]
 }
 export const Book = {
@@ -99,7 +100,7 @@ export const Book = {
   bullets: [
     "Invite me to crashland your bar, cluhb, bookshop, eatery, theatre, market or festival",
     "Age appropriate (16+) and extra shiny and flourecent",
-    "Every one who wants to interact with the Alien is welcome to say howdy, take photos for the 'gram, dance with me",
+    "Every one who wants to interact with the Alien is welcome to say howdy, take photos for the 'gram' and or dance with me",
     "Readings available to the interested humans at prices listed above",
   ]
 }
@@ -114,7 +115,7 @@ export const Contact = {
   ]
 }
 export const Birthday = {
-  employer: 'Birthday | Anniversery',
+  employer: 'Birthday | Anniversery | In Person Private Reading',
   title: '88.88 + ufo fuel',
   bullets: [
     "Want to blow your loved one's entire mind this year?",

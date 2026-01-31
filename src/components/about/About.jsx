@@ -26,25 +26,27 @@ const About = () => {
         </div>
         <div className="about__card">
           <p>
-            ✨🐄 During this Very Special Holiday Season, book the Alien Toronto Extraterrestrial Extravaganza for the People, for your earthling party guests!
-            <br></br>      <br></br>
+            ✨🐄 Greetings Earthling, 
+            <br></br>     
+            It is I, Alien Toronto, Vibologist DVD <br></br>
           </p>
           <p>
             👽 Never had a Tarot Reading before?
             <br></br>
-            ✅ Great! I'm not a Tarot Reader, I'm a Quantum Leap Reader
+            ✅ Great! I'm not a Tarot Reader, I'm an Alien Tarot Reader with a direct line to Miss Universe. I sat on my Universal Translator and it broke - so now, I use my 1980's telephone and tarot card deck to translate. 
             <br></br>
-           What is your dream? Let's figure out hot to make it your waking reality
             <br></br>
-            🛸 Abduct Alien Toronto for your Special Holiday Season Today through
+            🔮 This is not divination, this is annoying the stars.
+            <br></br>
+            🛸 To reach sentient customer support, book services or ask questions please make first contact via
 
 
-            <Reveal />, crop circles, or
+             crop circle, <Reveal />, or
             <a href="https://www.instagram.com/alientoronto/"
               target="_blank"
               rel="noreferrer"
               aria-label="new tab Instagram"
-            > <strong>Instagram</strong></a>
+            > <strong>Instagram DM</strong></a>
 
           </p>
 

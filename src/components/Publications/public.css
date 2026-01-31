@@ -28,6 +28,18 @@
     max-height: 100px;
 
   }
+  .white {
+    color: rgb(216, 213, 52);
+  }
+  .reddy {
+    background-color: rgb(211, 73, 199);
+    border: 1px solid transparent;
+    padding: 2rem;
+    display: flex;
+    height: 230px;
+    align-items: center;
+    gap:1rem;
+  }
 
   .public__card {
     background: var(--color-primary);
@@ -51,6 +63,19 @@
     padding-left: 9px;
   }
   .public__link:hover {
+    color: var(--color-bg);
+  }
+
+  .public__link_white {
+    background-color:  var(--color-bg-variant);
+    border-radius: 20px;
+    display: flex;
+    color: rgb(255, 253, 140);
+    justify-content: center;
+    margin-bottom: 20px;
+    padding-left: 9px;
+  }
+  .public__link_white:hover {
     color: var(--color-bg);
   }
 
