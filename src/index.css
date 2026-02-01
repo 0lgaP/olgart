@@ -22,7 +22,7 @@
 
   --transition: all 400ms ease;
 
-  --container-width-lg: 75%;
+  --container-width-lg: 90%;
   --container-width-md: 86%;
   --container-width-sm: 90%;
   --toastify-color-success:  rgb(108, 205, 185);
@@ -137,6 +137,9 @@ img {
   section {
     margin-top: 6rem;
   }
+
+
+
 }
 
 /* ---------------- Media Queries (Small Devices) ---------------- */

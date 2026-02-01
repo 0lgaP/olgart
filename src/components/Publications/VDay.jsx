@@ -22,9 +22,10 @@ const VDay = () => {
                        
 
                             <h3>
-                        👽Valentimes💚
+                        👽 Valentimes
                             </h3>
                             <p>
+            
                                 What time is it? It's ValenTimes!
                                 <br></br>
                                 Join me Feb 14th for a special Valentine's Day reading in the Distillery District
@@ -39,7 +40,7 @@ const VDay = () => {
                             aria-label="new tab to Aubirn Lane article"
                         >
                             
-                                Tickets through Eventbright!⚡
+                                Eventbright⚡
                             
                         </a>
                     </div>

@@ -147,10 +147,15 @@
   .about__cards {
     grid-template-columns: 1fr;
     gap: 1rem;
+
   }
 
   .about__content {
     display: column;
     align-items: center;
   }
+  .about__card {
+    padding:10px;
+  }
+
 }

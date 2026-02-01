@@ -75,6 +75,8 @@
   .services__container {
     grid-template-columns: 1fr;
     gap: 1.5rem;
+font-size: small;
+
   }
 
 

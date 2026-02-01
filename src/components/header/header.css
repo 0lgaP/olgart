@@ -2,6 +2,7 @@ header {
   height: 100%;
   padding-top: 2rem;
   overflow: hidden;
+  
 }
 .btn {
   font-weight: 800;
@@ -69,6 +70,9 @@ header {
     height: 35rem;
     left: calc(50% - 10rem);
     border-radius: 12rem 12rem 0 0;
+  }
+  .header {
+    background-color: aqua;
   }
 }
 

@@ -30,11 +30,12 @@
   }
   .white {
     color: rgb(216, 213, 52);
+ 
   }
   .reddy {
     background-color: rgb(211, 73, 199);
     border: 1px solid transparent;
-    padding: 2rem;
+    padding: 1rem;
     display: flex;
     height: 230px;
     align-items: center;
@@ -142,6 +143,16 @@
     }
     .public__content {
       margin: 1rem 0 1.5rem;
+    }
+    .header{
+      background-color: aqua;
+   
+    }
+    .white{
+      font-size: small;
+    }
+    .public__card{
+      font-size: small;
     }
   }
   
