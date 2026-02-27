@@ -10,13 +10,13 @@ const About = () => {
   return (
     <section id="about">
       <div className="about__container"
-   
+
       >
         <div
           className="about__me"
           onMouseOver={() => setOver(true)}
           onMouseOut={() => setOver(false)}
-      
+
         >
           <img
             className={over ? "about__me-image" : "about__me-cartoon"}
@@ -26,29 +26,37 @@ const About = () => {
         </div>
         <div className="about__card">
           <p>
-            ✨🐄 Greetings Earthling, 
-            <br></br>     
-            It is I, Alien Toronto, Vibologist DVD <br></br>
+            ✨🐄 Greetings Earthling!
+            <br></br>
+            <br></br>
+            👽 It is I, Alien Toronto, Vibologist DVD <br></br>
           </p>
           <p>
-            👽 Never had a Tarot Reading before?
+            🔮 Never had a Tarot Reading before?
             <br></br>
-            ✅ Great! I'm not a Tarot Reader, I'm an Alien Tarot Reader with a direct line to Miss Universe. I sat on my Universal Translator and it broke - so now, I use my 1980's telephone and tarot card deck to translate. 
+            ✅ Great! I'm not a Tarot Reader, I'm an <strong>Alien</strong> Tarot Reader with a direct line to Miss Universe.
             <br></br>
-            <br></br>
-            🔮 This is not divination, this is annoying the stars.
-            <br></br>
-            🛸 To reach sentient customer support, book services or ask questions please make first contact via
 
 
-             crop circle, <Reveal />, or
+            <br></br>
+            🛸 To reach sentient customer support reach out via
+
+            <Reveal />, or
             <a href="https://www.instagram.com/alientoronto/"
               target="_blank"
               rel="noreferrer"
               aria-label="new tab Instagram"
             > <strong>Instagram DM</strong></a>
 
+            <br></br>
+            🪐 Corporate Bookings through <a
+            href="https://inentertainment.ca/magic-psychics#:~:text=to%20your%20own.-,ALIEN%20TORONTO%20TAROT,-The%20creature%20known"
+            target="_blank"
+            rel="noreferrer"
+            aria-label="new tab inentertainment"
+            ><strong>InEntertainment</strong></a>
           </p>
+
 
         </div>
       </div>

@@ -14,7 +14,6 @@ const App = () => {
   return (
     <>
       <Header />
-      <VDay />
       <Services />
       <Public />
       <Footer />

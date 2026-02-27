@@ -68,26 +68,25 @@ export const DX = {
 
 export const MFTU = {
   employer: 'Message from the Universe',
-  title: '$11.11' ,
+  title: 'one card' ,
   bullets: [
-    "One card reading - you have one missed call from miss universe, but you can't understant the cosmic signals, let me translate.",
+    "You have one missed call from miss universe, but you can't understant the cosmic signals, let me translate.",
     "Simple, quick, and sure to start a conversation!",
     "Bring a friend, nothing emberassing or personal here, just good strange fun.",
   ]
 }
 export const Probing = {
   employer: 'Best Timeline Insurance Policy',
-  title: '$22.22',
+  title: 'three cards',
   bullets: [
-    "Three card reading - What do you want? Bring your desires, and I will ask Miss universe for tech support, let's get you whatever you want.",
-    "Available day/night online through Instagram",
-    "Spicy, honest, bold flavours perfect for tasty snack!",
+    "What do you want? Bring your desires, and I will ask Miss universe for tech support on your bee-half.",
+    "Spicy, honest, bold flavours perfect for tasty sit-down snack!",
     "Bring a friend at your own discression it's a bit longer than a quick message.",
   ]
 }
 export const Private = {
   employer: 'LOL (Love Of ur Life)',
-  title: '$42.00 /30min',
+  title: 'seven cards',
   bullets: [
     "7 card spread helping you find your love",
     "Heavy, full bodied, crying allowed",
@@ -96,7 +95,7 @@ export const Private = {
 }
 export const Book = {
   employer: 'Invite a Crashlanding',
-  title: 'Free',
+  title: 'book now ',
   bullets: [
     "Invite me to crashland your bar, cluhb, bookshop, eatery, theatre, market or festival",
     "Age appropriate (16+) and extra shiny and flourecent",
@@ -115,11 +114,11 @@ export const Contact = {
   ]
 }
 export const Birthday = {
-  employer: 'Birthday | Anniversery | In Person Private Reading',
-  title: '88.88 + ufo fuel',
+  employer: 'Deep Dive',
+  title: 'custom reading tailored to you',
   bullets: [
     "Want to blow your loved one's entire mind this year?",
-    "Let's make it into an experiance of a life time by pausing your loop",
+    "Let's make it into an experiance of a life time by pausing the loop",
     "I show up in your life in person, or some loving family member contacts me and we gaslight you into thinking this is random 😈  ",
     "We look at the lessons from last year, check for termites, make a wish, and then get detailed instructions on how to ensure it comes true, NO FORTUNES 💃",
   ]
@@ -131,5 +130,14 @@ export const Holidalien = {
   " 90 min 1:1 alien readings for interested guests",
     "Full sparkling alien tarot action, with reversable sequin tentacles, amazing dance moves, high kicks, deep questions and cosmic comedy",
     "Book a 15 minute call so I may show your planning team how funny, charming and shiny I am!"
+  ]
+}
+export const Standup = {
+  employer: 'Alien Toronto Comedy',
+  title: 'stage performance',
+  bullets: [   "5 minute standup routine ",
+  " Audience participation",
+    "Full sparkling alien tarot action, with reversable sequin tentacles, amazing dance moves, high kicks, deep questions and cosmic comedy",
+    "5 minute energetic Mimesynk that unlocks a core memory for the audience"
   ]
 }
