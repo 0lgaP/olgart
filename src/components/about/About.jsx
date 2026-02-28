@@ -54,7 +54,7 @@ const About = () => {
             target="_blank"
             rel="noreferrer"
             aria-label="new tab inentertainment"
-            ><strong>InEntertainment</strong></a>
+            ><strong>In Entertainment</strong></a>
           </p>
 
 
