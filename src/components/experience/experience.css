@@ -2,6 +2,19 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
+  margin-bottom: 2rem;
+
+}
+.experience__tagline {
+  display:block;
+  background: var(--color-bg-variant);
+  max-width: 100%;
+  gap:1rem;
+}
+
+.aliens {
+  display: grid;
+grid-auto-flow: column;
 }
 
 .experience__container > div {
@@ -10,6 +23,7 @@
   border-radius: 2rem;
   border: 1px solid transparent;
   transition: var(--transition);
+  gap:1rem;
 }
 
 .experience__container > div:hover {
@@ -22,18 +36,14 @@
   text-align: center;
   margin-bottom: 2rem;
   color: var(--color-primary);
+
 }
 
-.experience__content {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  row-gap: 0.5rem;
-  column-gap: 20px;
-}
 
 .experience__details {
   display: -webkit-inline-box;
   gap: 1rem;
+  padding-bottom: 10px;
 }
 
 .experience__details-icon {
@@ -49,18 +59,22 @@
 /* ---------------- Media Queries (Med Devices) ---------------- */
 @media screen and (max-width: 1024px) {
   .experience__container {
-    grid-template-columns: 1fr;
-    align-items: center;
+display:flex;
+flex-direction: column;
+gap:2rem;
   }
 
-  .experience__container > div {
-    width: 80%;
-    padding: 2rem;
-    margin: 0 auto;
+  .container.experience__container > div {
+
+
+padding: 25px;
+  }
+  .experience__details{
+    padding-right: 35px;
   }
 
   .experience__content {
-    padding: 1rem;
+    padding: 0;
   }
 }
 
@@ -68,16 +82,16 @@
 @media screen and (max-width: 600px) {
 
   .experience__container {
+    width: 100%;
     gap: 1rem;
     display: flex;
     flex-direction: column;
- 
+ font-size: small;
+
+
   }
 
-  .experience__container > div {
-    width: 100%;
-    padding: 2rem 1rem;
-  }
+
 
   .experience__content {
     display: grid;

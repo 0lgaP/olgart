@@ -15,8 +15,6 @@ const Services = () => {
         <ServicesList role={MFTU} />
         <ServicesList role={Probing} />
 
-        <ServicesList role={Standup} />
-
       </div>
 
     </section>

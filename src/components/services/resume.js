@@ -70,18 +70,18 @@ export const MFTU = {
   employer: 'Message from the Universe',
   title: 'one card' ,
   bullets: [
-    "You have one missed call from miss universe, but you can't understant the cosmic signals, let me translate.",
+    "Miss Universe is calling you about your best timeline, will you receive her message after the tone?",
     "Simple, quick, and sure to start a conversation!",
-    "Bring a friend, nothing emberassing or personal here, just good strange fun.",
+    "Bring a friend, nothing embarrassing or personal here, just a reminder why you make the cosmos happy.",
   ]
 }
 export const Probing = {
   employer: 'Best Timeline Insurance Policy',
   title: 'three cards',
   bullets: [
-    "What do you want? Bring your desires, and I will ask Miss universe for tech support on your bee-half.",
+    "Tell me what you want, what you Really Really want, and we’ll figure out how to get you there Guaranteed!",
     "Spicy, honest, bold flavours perfect for tasty sit-down snack!",
-    "Bring a friend at your own discression it's a bit longer than a quick message.",
+    "Bring a friend at your own discretion. More verbose than a quick message and you will get homework.",
   ]
 }
 export const Private = {

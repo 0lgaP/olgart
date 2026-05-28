@@ -26,35 +26,20 @@ const About = () => {
         </div>
         <div className="about__card">
           <p>
-            ✨🐄 Greetings Earthling!
+          ✨🐄 Greetings Cosmic Citizen!
             <br></br>
             <br></br>
-            👽 It is I, Alien Toronto, Vibologist DVD <br></br>
+            👽 It is I, Alien Toronto, Tarot Reader who annoys the stars! <br></br>
           </p>
           <p>
-            🔮 Never had a Tarot Reading before?
-            <br></br>
-            ✅ Great! I'm not a Tarot Reader, I'm an <strong>Alien</strong> Tarot Reader with a direct line to Miss Universe.
-            <br></br>
+          🔮 If you've never had a Tarot Reading before, relax, you can still say that after we're done here! Alien Tarot is about abducting you into your own best timeline through sci-fi comedy, pop lyrics and expert timing.
+           
 
 
             <br></br>
-            🛸 To reach sentient customer support reach out via
-
-            <Reveal />, or
-            <a href="https://www.instagram.com/alientoronto/"
-              target="_blank"
-              rel="noreferrer"
-              aria-label="new tab Instagram"
-            > <strong>Instagram DM</strong></a>
-
             <br></br>
-            🪐 Corporate Bookings through <a
-            href="https://inentertainment.ca/magic-psychics#:~:text=to%20your%20own.-,ALIEN%20TORONTO%20TAROT,-The%20creature%20known"
-            target="_blank"
-            rel="noreferrer"
-            aria-label="new tab inentertainment"
-            ><strong>In Entertainment</strong></a>
+            🛸 <Reveal /> to Book an alien abduction today!
+      
           </p>
 
 

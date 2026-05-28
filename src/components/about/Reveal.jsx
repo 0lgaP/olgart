@@ -14,7 +14,7 @@ function Reveal() {
        className='reveal__button'
        style={{ cursor: 'pointer'}}
       >
-        {isRevealed ? 'alientorontoart@gmail.com' : 'email'}
+        {isRevealed ? 'alientorontoart@gmail.com' : 'Email Me'}
       </button>
   );
 }

@@ -1,34 +1,55 @@
 import React from "react";
 import "./experience.css";
 import { FullDevExperience } from "./experiance.tsx";
-import { DevSkills, SoftSkills, ArtSkills } from "./resume";
+import { DevSkills, SoftSkills, ArtSkills, AlienBirthday, AlienBusker, AlienTorontoParty } from "./resume";
+import Thumb from "../../assets/Taco.png"
+import Cheek from '../../assets/Cheekhold.png'
+import Leg from '../../assets/Folded.png'
+import MissALien from '../../assets/Blur _ leg up.png'
 
 const ExperienceBlock = () => {
   return (
-    <section id="skills">
-      <h2>Skills</h2>
+    <section >
+      <br></br>
+      <br></br>
+      <h2>Private Events </h2>
+      <div className="aliens">
+      <img src={Thumb}/>
+      <img src={Cheek}/>
+      <img src={Leg}/>
+      </div>
+    
 
       <article className="container experience__container">
         <div>
-          <h3>Frontend Development</h3>
+          <div >
+
+          <h2>Alien Tarot Party</h2>
+
+          </div>
           <ul className="experience__content">
-            <FullDevExperience icon="check" skills={DevSkills} />
+            <FullDevExperience icon="hat" skills={AlienTorontoParty} />
+          </ul>
+    
+        </div>
+        
+
+        <div className="experience__frontend">
+          <h2>Alien Birthday</h2>
+          <ul className="experience__content">
+            <FullDevExperience icon="alien" skills={AlienBirthday} />
+            
           </ul>
         </div>
 
         <div className="experience__frontend">
-          <h3>Soft Skills</h3>
+          <h2>Alien Busker</h2>
           <ul className="experience__content">
-            <FullDevExperience icon="mic" skills={SoftSkills} />
+            <FullDevExperience icon="check" skills={AlienBusker} />
           </ul>
         </div>
 
-        <div className="experience__frontend">
-          <h3>Illustration and UX</h3>
-          <ul className="experience__content">
-            <FullDevExperience icon="heart" skills={ArtSkills} />
-          </ul>
-        </div>
+
       </article>
     </section>
   );

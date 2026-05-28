@@ -3,19 +3,21 @@ import Header from "./components/header/Header";
 import Services from "./components/services/Services";
 import Footer from "./components/footer/Footer";
 import Public from "./components/Publications/Public";
-import VDay from "./components/Publications/VDay";
+import Experience from "./components/experience/Experience";
+
 
 
 
 
 const App = () => {
-  const Portfolio = lazy(() => import("./components/portfolio/Portfolio"));
+
 
   return (
     <>
       <Header />
       <Services />
       <Public />
+      <Experience />
       <Footer />
     </>
   );

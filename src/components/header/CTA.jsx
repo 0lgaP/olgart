@@ -4,6 +4,7 @@ import { BsInstagram } from "react-icons/bs";
 import { BsYoutube } from "react-icons/bs";
 import { BsTwitch } from "react-icons/bs";
 import { HiOutlineMail } from "react-icons/hi";
+import { FaTiktok } from "react-icons/fa";
 import EmailCopyComponent from "./Email";
 
 const CTA = () => {
@@ -28,12 +29,12 @@ const CTA = () => {
         </a>
         <EmailCopyComponent />
         <a
-          href="https://www.twitch.tv/alientoronto"
+          href="https://www.tiktok.com/@alientoronto"
           target="_blank"
           rel="noreferrer"
-          aria-label="new tab Twitch"
+          aria-label="new tab TikTok"
         >
-          <BsTwitch className="header__socials" />
+          <FaTiktok className="header__socials" />
         </a>
        
         
